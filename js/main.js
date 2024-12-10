@@ -101,7 +101,6 @@ function aye(arrow, container, text, tt) {
         text.style.opacity = '1'; 
         text.style.backgroundColor = '#941212';
         text.style.padding = '10px';
-        text.style.borderRadius = '35px';
     }, 500);
 
     isArrow = false;
